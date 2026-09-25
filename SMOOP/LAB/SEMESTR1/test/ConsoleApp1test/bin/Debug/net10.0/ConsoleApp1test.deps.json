@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ConsoleApp1test/1.0.0": {
+        "runtime": {
+          "ConsoleApp1test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

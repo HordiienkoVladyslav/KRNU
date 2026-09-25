@@ -1,0 +1,15 @@
+D:\KRNU\SMOOP\LAB\LB9_2\bin\Debug\net10.0\LB9_2.exe
+D:\KRNU\SMOOP\LAB\LB9_2\bin\Debug\net10.0\LB9_2.deps.json
+D:\KRNU\SMOOP\LAB\LB9_2\bin\Debug\net10.0\LB9_2.runtimeconfig.json
+D:\KRNU\SMOOP\LAB\LB9_2\bin\Debug\net10.0\LB9_2.dll
+D:\KRNU\SMOOP\LAB\LB9_2\bin\Debug\net10.0\LB9_2.pdb
+D:\KRNU\SMOOP\LAB\LB9_2\obj\Debug\net10.0\LB9_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\KRNU\SMOOP\LAB\LB9_2\obj\Debug\net10.0\LB9_2.AssemblyInfoInputs.cache
+D:\KRNU\SMOOP\LAB\LB9_2\obj\Debug\net10.0\LB9_2.AssemblyInfo.cs
+D:\KRNU\SMOOP\LAB\LB9_2\obj\Debug\net10.0\LB9_2.csproj.CoreCompileInputs.cache
+D:\KRNU\SMOOP\LAB\LB9_2\obj\Debug\net10.0\LB9_2.sourcelink.json
+D:\KRNU\SMOOP\LAB\LB9_2\obj\Debug\net10.0\LB9_2.dll
+D:\KRNU\SMOOP\LAB\LB9_2\obj\Debug\net10.0\refint\LB9_2.dll
+D:\KRNU\SMOOP\LAB\LB9_2\obj\Debug\net10.0\LB9_2.pdb
+D:\KRNU\SMOOP\LAB\LB9_2\obj\Debug\net10.0\LB9_2.genruntimeconfig.cache
+D:\KRNU\SMOOP\LAB\LB9_2\obj\Debug\net10.0\ref\LB9_2.dll

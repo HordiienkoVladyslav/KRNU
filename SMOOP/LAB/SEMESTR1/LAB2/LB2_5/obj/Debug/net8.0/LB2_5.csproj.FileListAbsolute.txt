@@ -1,0 +1,14 @@
+E:\LAB\SMOOP\LAB2\LB2_5\bin\Debug\net8.0\LB2_5.exe
+E:\LAB\SMOOP\LAB2\LB2_5\bin\Debug\net8.0\LB2_5.deps.json
+E:\LAB\SMOOP\LAB2\LB2_5\bin\Debug\net8.0\LB2_5.runtimeconfig.json
+E:\LAB\SMOOP\LAB2\LB2_5\bin\Debug\net8.0\LB2_5.dll
+E:\LAB\SMOOP\LAB2\LB2_5\bin\Debug\net8.0\LB2_5.pdb
+E:\LAB\SMOOP\LAB2\LB2_5\obj\Debug\net8.0\LB2_5.GeneratedMSBuildEditorConfig.editorconfig
+E:\LAB\SMOOP\LAB2\LB2_5\obj\Debug\net8.0\LB2_5.AssemblyInfoInputs.cache
+E:\LAB\SMOOP\LAB2\LB2_5\obj\Debug\net8.0\LB2_5.AssemblyInfo.cs
+E:\LAB\SMOOP\LAB2\LB2_5\obj\Debug\net8.0\LB2_5.csproj.CoreCompileInputs.cache
+E:\LAB\SMOOP\LAB2\LB2_5\obj\Debug\net8.0\LB2_5.dll
+E:\LAB\SMOOP\LAB2\LB2_5\obj\Debug\net8.0\refint\LB2_5.dll
+E:\LAB\SMOOP\LAB2\LB2_5\obj\Debug\net8.0\LB2_5.pdb
+E:\LAB\SMOOP\LAB2\LB2_5\obj\Debug\net8.0\LB2_5.genruntimeconfig.cache
+E:\LAB\SMOOP\LAB2\LB2_5\obj\Debug\net8.0\ref\LB2_5.dll

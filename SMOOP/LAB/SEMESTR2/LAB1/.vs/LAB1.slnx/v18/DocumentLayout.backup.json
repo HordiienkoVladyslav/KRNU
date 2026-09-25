@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\shared\\consoleinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:shared\\consoleinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task3\\ui\\printerconsoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task3\\ui\\printerconsoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task2\\ui\\wordanalysisconsoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task2\\ui\\wordanalysisconsoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task3\\abstractions\\iprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task3\\abstractions\\iprinterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task3\\abstractions\\iprinthistoryexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task3\\abstractions\\iprinthistoryexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task3\\models\\printjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task3\\models\\printjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task3\\models\\printrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task3\\models\\printrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task3\\services\\printerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task3\\services\\printerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task3\\services\\textfilehistoryexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task3\\services\\textfilehistoryexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task2\\services\\textfilestatsexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task2\\services\\textfilestatsexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task2\\services\\regexwordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task2\\services\\regexwordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task2\\services\\diskfileprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task2\\services\\diskfileprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task2\\abstractions\\iwordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task2\\abstractions\\iwordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task2\\abstractions\\istatsexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task2\\abstractions\\istatsexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task2\\abstractions\\ifileprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task2\\abstractions\\ifileprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task1\\abstractions\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task1\\abstractions\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task1\\services\\inmemorypersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task1\\services\\inmemorypersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab1\\task1\\ui\\personconsoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|LAB1.csproj|solutionrelative:task1\\ui\\personconsoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrinterService.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task3\\Abstractions\\IPrinterService.cs",
+              "RelativeDocumentMoniker": "Task3\\Abstractions\\IPrinterService.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task3\\Abstractions\\IPrinterService.cs",
+              "RelativeToolTip": "Task3\\Abstractions\\IPrinterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:50:40.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrintHistoryExporter.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task3\\Abstractions\\IPrintHistoryExporter.cs",
+              "RelativeDocumentMoniker": "Task3\\Abstractions\\IPrintHistoryExporter.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task3\\Abstractions\\IPrintHistoryExporter.cs",
+              "RelativeToolTip": "Task3\\Abstractions\\IPrintHistoryExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:50:51.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrintJob.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task3\\Models\\PrintJob.cs",
+              "RelativeDocumentMoniker": "Task3\\Models\\PrintJob.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task3\\Models\\PrintJob.cs",
+              "RelativeToolTip": "Task3\\Models\\PrintJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:50:13.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrintRecord.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task3\\Models\\PrintRecord.cs",
+              "RelativeDocumentMoniker": "Task3\\Models\\PrintRecord.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task3\\Models\\PrintRecord.cs",
+              "RelativeToolTip": "Task3\\Models\\PrintRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:50:29.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrinterService.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task3\\Services\\PrinterService.cs",
+              "RelativeDocumentMoniker": "Task3\\Services\\PrinterService.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task3\\Services\\PrinterService.cs",
+              "RelativeToolTip": "Task3\\Services\\PrinterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:51:01.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextFileHistoryExporter.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task3\\Services\\TextFileHistoryExporter.cs",
+              "RelativeDocumentMoniker": "Task3\\Services\\TextFileHistoryExporter.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task3\\Services\\TextFileHistoryExporter.cs",
+              "RelativeToolTip": "Task3\\Services\\TextFileHistoryExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:51:14.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrinterConsoleUI.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task3\\UI\\PrinterConsoleUI.cs",
+              "RelativeDocumentMoniker": "Task3\\UI\\PrinterConsoleUI.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task3\\UI\\PrinterConsoleUI.cs",
+              "RelativeToolTip": "Task3\\UI\\PrinterConsoleUI.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAnwDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:51:25.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:35:58.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleInputHandler.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Shared\\ConsoleInputHandler.cs",
+              "RelativeDocumentMoniker": "Shared\\ConsoleInputHandler.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Shared\\ConsoleInputHandler.cs",
+              "RelativeToolTip": "Shared\\ConsoleInputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:38:07.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordAnalysisConsoleUI.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task2\\UI\\WordAnalysisConsoleUI.cs",
+              "RelativeDocumentMoniker": "Task2\\UI\\WordAnalysisConsoleUI.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task2\\UI\\WordAnalysisConsoleUI.cs",
+              "RelativeToolTip": "Task2\\UI\\WordAnalysisConsoleUI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:49:57.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TextFileStatsExporter.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task2\\Services\\TextFileStatsExporter.cs",
+              "RelativeDocumentMoniker": "Task2\\Services\\TextFileStatsExporter.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task2\\Services\\TextFileStatsExporter.cs",
+              "RelativeToolTip": "Task2\\Services\\TextFileStatsExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:49:45.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegexWordCounter.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task2\\Services\\RegexWordCounter.cs",
+              "RelativeDocumentMoniker": "Task2\\Services\\RegexWordCounter.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task2\\Services\\RegexWordCounter.cs",
+              "RelativeToolTip": "Task2\\Services\\RegexWordCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:49:22.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DiskFileProvider.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task2\\Services\\DiskFileProvider.cs",
+              "RelativeDocumentMoniker": "Task2\\Services\\DiskFileProvider.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task2\\Services\\DiskFileProvider.cs",
+              "RelativeToolTip": "Task2\\Services\\DiskFileProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:49:32.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IWordCounter.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task2\\Abstractions\\IWordCounter.cs",
+              "RelativeDocumentMoniker": "Task2\\Abstractions\\IWordCounter.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task2\\Abstractions\\IWordCounter.cs",
+              "RelativeToolTip": "Task2\\Abstractions\\IWordCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:48:52.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStatsExporter.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task2\\Abstractions\\IStatsExporter.cs",
+              "RelativeDocumentMoniker": "Task2\\Abstractions\\IStatsExporter.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task2\\Abstractions\\IStatsExporter.cs",
+              "RelativeToolTip": "Task2\\Abstractions\\IStatsExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:49:11.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFileProvider.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task2\\Abstractions\\IFileProvider.cs",
+              "RelativeDocumentMoniker": "Task2\\Abstractions\\IFileProvider.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task2\\Abstractions\\IFileProvider.cs",
+              "RelativeToolTip": "Task2\\Abstractions\\IFileProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:49:01.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task1\\Abstractions\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "Task1\\Abstractions\\IPersonRepository.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task1\\Abstractions\\IPersonRepository.cs",
+              "RelativeToolTip": "Task1\\Abstractions\\IPersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:40:13.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InMemoryPersonRepository.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task1\\Services\\InMemoryPersonRepository.cs",
+              "RelativeDocumentMoniker": "Task1\\Services\\InMemoryPersonRepository.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task1\\Services\\InMemoryPersonRepository.cs",
+              "RelativeToolTip": "Task1\\Services\\InMemoryPersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:41:31.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task1\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Task1\\Models\\Person.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task1\\Models\\Person.cs",
+              "RelativeToolTip": "Task1\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:39:04.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PersonConsoleUI.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task1\\UI\\PersonConsoleUI.cs",
+              "RelativeDocumentMoniker": "Task1\\UI\\PersonConsoleUI.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LAB1\\Task1\\UI\\PersonConsoleUI.cs",
+              "RelativeToolTip": "Task1\\UI\\PersonConsoleUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T20:42:40.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

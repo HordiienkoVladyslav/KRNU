@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|d:\\krnu\\smoop\\lab\\lb10_2\\class\\suitcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|solutionrelative:class\\suitcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|d:\\krnu\\smoop\\lab\\lb10_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|d:\\krnu\\smoop\\lab\\lb10_2\\interfaces\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|solutionrelative:interfaces\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|d:\\krnu\\smoop\\lab\\lb10_2\\class\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|solutionrelative:class\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|d:\\krnu\\smoop\\lab\\lb10_2\\interfaces\\ipackingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|solutionrelative:interfaces\\ipackingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|d:\\krnu\\smoop\\lab\\lb10_2\\class\\arraystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|solutionrelative:class\\arraystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|d:\\krnu\\smoop\\lab\\lb10_2\\class\\suitcasepacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|solutionrelative:class\\suitcasepacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|d:\\krnu\\smoop\\lab\\lb10_2\\class\\exeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|solutionrelative:class\\exeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|d:\\krnu\\smoop\\lab\\lb10_2\\class\\volumevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF12162-E004-4011-8E32-2CF85BAC7C11}|LB10_2.csproj|solutionrelative:class\\volumevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exeption.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Class\\Exeption.cs",
+              "RelativeDocumentMoniker": "Class\\Exeption.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Class\\Exeption.cs",
+              "RelativeToolTip": "Class\\Exeption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:40:11.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuitcasePacker.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Class\\SuitcasePacker.cs",
+              "RelativeDocumentMoniker": "Class\\SuitcasePacker.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Class\\SuitcasePacker.cs",
+              "RelativeToolTip": "Class\\SuitcasePacker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:39:51.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VolumeValidator.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Class\\VolumeValidator.cs",
+              "RelativeDocumentMoniker": "Class\\VolumeValidator.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Class\\VolumeValidator.cs",
+              "RelativeToolTip": "Class\\VolumeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:28:04.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArrayStorage.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Class\\ArrayStorage.cs",
+              "RelativeDocumentMoniker": "Class\\ArrayStorage.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Class\\ArrayStorage.cs",
+              "RelativeToolTip": "Class\\ArrayStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:24:37.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPackingValidator.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Interfaces\\IPackingValidator.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPackingValidator.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Interfaces\\IPackingValidator.cs",
+              "RelativeToolTip": "Interfaces\\IPackingValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:23:38.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStorage.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Interfaces\\IStorage.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IStorage.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Interfaces\\IStorage.cs",
+              "RelativeToolTip": "Interfaces\\IStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:23:23.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Suitcase.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Class\\Suitcase.cs",
+              "RelativeDocumentMoniker": "Class\\Suitcase.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Class\\Suitcase.cs",
+              "RelativeToolTip": "Class\\Suitcase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:22:04.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Class\\Item.cs",
+              "RelativeDocumentMoniker": "Class\\Item.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Class\\Item.cs",
+              "RelativeToolTip": "Class\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:21:44.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\LB10_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:08:21.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

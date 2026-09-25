@@ -1,0 +1,15 @@
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\obj\Debug\net10.0\LAB1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\obj\Debug\net10.0\LAB1.AssemblyInfoInputs.cache
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\obj\Debug\net10.0\LAB1.AssemblyInfo.cs
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\obj\Debug\net10.0\LAB1.csproj.CoreCompileInputs.cache
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\obj\Debug\net10.0\LAB1.sourcelink.json
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\bin\Debug\net10.0\LAB1.exe
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\bin\Debug\net10.0\LAB1.deps.json
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\bin\Debug\net10.0\LAB1.runtimeconfig.json
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\bin\Debug\net10.0\LAB1.dll
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\bin\Debug\net10.0\LAB1.pdb
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\obj\Debug\net10.0\LAB1.dll
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\obj\Debug\net10.0\refint\LAB1.dll
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\obj\Debug\net10.0\LAB1.pdb
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\obj\Debug\net10.0\LAB1.genruntimeconfig.cache
+D:\KRNU\SMOOP\LAB\SEMESTR2\LAB1\obj\Debug\net10.0\ref\LAB1.dll

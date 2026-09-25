@@ -1,0 +1,15 @@
+D:\KRNU\SMOOP\LAB\Module3_LB7\bin\Debug\net10.0\Module3_LB7.exe
+D:\KRNU\SMOOP\LAB\Module3_LB7\bin\Debug\net10.0\Module3_LB7.deps.json
+D:\KRNU\SMOOP\LAB\Module3_LB7\bin\Debug\net10.0\Module3_LB7.runtimeconfig.json
+D:\KRNU\SMOOP\LAB\Module3_LB7\bin\Debug\net10.0\Module3_LB7.dll
+D:\KRNU\SMOOP\LAB\Module3_LB7\bin\Debug\net10.0\Module3_LB7.pdb
+D:\KRNU\SMOOP\LAB\Module3_LB7\obj\Debug\net10.0\Module3_LB7.GeneratedMSBuildEditorConfig.editorconfig
+D:\KRNU\SMOOP\LAB\Module3_LB7\obj\Debug\net10.0\Module3_LB7.AssemblyInfoInputs.cache
+D:\KRNU\SMOOP\LAB\Module3_LB7\obj\Debug\net10.0\Module3_LB7.AssemblyInfo.cs
+D:\KRNU\SMOOP\LAB\Module3_LB7\obj\Debug\net10.0\Module3_LB7.csproj.CoreCompileInputs.cache
+D:\KRNU\SMOOP\LAB\Module3_LB7\obj\Debug\net10.0\Module3_LB7.sourcelink.json
+D:\KRNU\SMOOP\LAB\Module3_LB7\obj\Debug\net10.0\Module3_LB7.dll
+D:\KRNU\SMOOP\LAB\Module3_LB7\obj\Debug\net10.0\refint\Module3_LB7.dll
+D:\KRNU\SMOOP\LAB\Module3_LB7\obj\Debug\net10.0\Module3_LB7.pdb
+D:\KRNU\SMOOP\LAB\Module3_LB7\obj\Debug\net10.0\Module3_LB7.genruntimeconfig.cache
+D:\KRNU\SMOOP\LAB\Module3_LB7\obj\Debug\net10.0\ref\Module3_LB7.dll

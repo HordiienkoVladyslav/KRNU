@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|d:\\krnu\\smoop\\lab\\module3_lb7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|d:\\krnu\\smoop\\lab\\module3_lb7\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|solutionrelative:interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|d:\\krnu\\smoop\\lab\\module3_lb7\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|solutionrelative:models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|d:\\krnu\\smoop\\lab\\module3_lb7\\models\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|solutionrelative:models\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|d:\\krnu\\smoop\\lab\\module3_lb7\\models\\kangaroo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|solutionrelative:models\\kangaroo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|d:\\krnu\\smoop\\lab\\module3_lb7\\models\\crocodile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|solutionrelative:models\\crocodile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|d:\\krnu\\smoop\\lab\\module3_lb7\\models\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|solutionrelative:models\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|d:\\krnu\\smoop\\lab\\module3_lb7\\utilities\\arrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|solutionrelative:utilities\\arrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|d:\\krnu\\smoop\\lab\\module3_lb7\\services\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|solutionrelative:services\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|d:\\krnu\\smoop\\lab\\module3_lb7\\services\\zooservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|solutionrelative:services\\zooservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|d:\\krnu\\smoop\\lab\\module3_lb7\\utilities\\zoomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FD914F-C8E9-448B-88DA-80524DFC338C}|Module3_LB7.csproj|solutionrelative:utilities\\zoomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ZooManager.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Utilities\\ZooManager.cs",
+              "RelativeDocumentMoniker": "Utilities\\ZooManager.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Utilities\\ZooManager.cs",
+              "RelativeToolTip": "Utilities\\ZooManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T10:39:11.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ZooService.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Services\\ZooService.cs",
+              "RelativeDocumentMoniker": "Services\\ZooService.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Services\\ZooService.cs",
+              "RelativeToolTip": "Services\\ZooService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T10:37:55.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnimalFactory.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Services\\AnimalFactory.cs",
+              "RelativeDocumentMoniker": "Services\\AnimalFactory.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Services\\AnimalFactory.cs",
+              "RelativeToolTip": "Services\\AnimalFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T10:37:19.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArrayHelper.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Utilities\\ArrayHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\ArrayHelper.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Utilities\\ArrayHelper.cs",
+              "RelativeToolTip": "Utilities\\ArrayHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T10:36:18.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enclosure.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Models\\Enclosure.cs",
+              "RelativeDocumentMoniker": "Models\\Enclosure.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Models\\Enclosure.cs",
+              "RelativeToolTip": "Models\\Enclosure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T10:35:33.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Crocodile.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Models\\Crocodile.cs",
+              "RelativeDocumentMoniker": "Models\\Crocodile.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Models\\Crocodile.cs",
+              "RelativeToolTip": "Models\\Crocodile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T10:34:58.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kangaroo.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Models\\Kangaroo.cs",
+              "RelativeDocumentMoniker": "Models\\Kangaroo.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Models\\Kangaroo.cs",
+              "RelativeToolTip": "Models\\Kangaroo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T10:34:26.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tiger.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Models\\Tiger.cs",
+              "RelativeDocumentMoniker": "Models\\Tiger.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Models\\Tiger.cs",
+              "RelativeToolTip": "Models\\Tiger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T10:33:35.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Models\\Animal.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Models\\Animal.cs",
+              "RelativeToolTip": "Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T10:32:28.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Interfaces\\IAnimal.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAnimal.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Interfaces\\IAnimal.cs",
+              "RelativeToolTip": "Interfaces\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T10:31:56.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\Module3_LB7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T10:27:42.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\KRNU\SMOOP\LAB\LB11\obj\Debug\net10.0\LB11.GeneratedMSBuildEditorConfig.editorconfig
+D:\KRNU\SMOOP\LAB\LB11\obj\Debug\net10.0\LB11.AssemblyInfoInputs.cache
+D:\KRNU\SMOOP\LAB\LB11\obj\Debug\net10.0\LB11.AssemblyInfo.cs
+D:\KRNU\SMOOP\LAB\LB11\obj\Debug\net10.0\LB11.csproj.CoreCompileInputs.cache
+D:\KRNU\SMOOP\LAB\LB11\obj\Debug\net10.0\LB11.sourcelink.json
+D:\KRNU\SMOOP\LAB\LB11\bin\Debug\net10.0\LB11.exe
+D:\KRNU\SMOOP\LAB\LB11\bin\Debug\net10.0\LB11.deps.json
+D:\KRNU\SMOOP\LAB\LB11\bin\Debug\net10.0\LB11.runtimeconfig.json
+D:\KRNU\SMOOP\LAB\LB11\bin\Debug\net10.0\LB11.dll
+D:\KRNU\SMOOP\LAB\LB11\bin\Debug\net10.0\LB11.pdb
+D:\KRNU\SMOOP\LAB\LB11\obj\Debug\net10.0\LB11.dll
+D:\KRNU\SMOOP\LAB\LB11\obj\Debug\net10.0\refint\LB11.dll
+D:\KRNU\SMOOP\LAB\LB11\obj\Debug\net10.0\LB11.pdb
+D:\KRNU\SMOOP\LAB\LB11\obj\Debug\net10.0\LB11.genruntimeconfig.cache
+D:\KRNU\SMOOP\LAB\LB11\obj\Debug\net10.0\ref\LB11.dll

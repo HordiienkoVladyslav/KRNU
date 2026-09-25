@@ -1,0 +1,14 @@
+E:\LAB\SMOOP\LAB7\LB7_Zoo\bin\Debug\net10.0\LB7_Zoo.exe
+E:\LAB\SMOOP\LAB7\LB7_Zoo\bin\Debug\net10.0\LB7_Zoo.deps.json
+E:\LAB\SMOOP\LAB7\LB7_Zoo\bin\Debug\net10.0\LB7_Zoo.runtimeconfig.json
+E:\LAB\SMOOP\LAB7\LB7_Zoo\bin\Debug\net10.0\LB7_Zoo.dll
+E:\LAB\SMOOP\LAB7\LB7_Zoo\bin\Debug\net10.0\LB7_Zoo.pdb
+E:\LAB\SMOOP\LAB7\LB7_Zoo\obj\Debug\net10.0\LB7_Zoo.GeneratedMSBuildEditorConfig.editorconfig
+E:\LAB\SMOOP\LAB7\LB7_Zoo\obj\Debug\net10.0\LB7_Zoo.AssemblyInfoInputs.cache
+E:\LAB\SMOOP\LAB7\LB7_Zoo\obj\Debug\net10.0\LB7_Zoo.AssemblyInfo.cs
+E:\LAB\SMOOP\LAB7\LB7_Zoo\obj\Debug\net10.0\LB7_Zoo.csproj.CoreCompileInputs.cache
+E:\LAB\SMOOP\LAB7\LB7_Zoo\obj\Debug\net10.0\LB7_Zoo.dll
+E:\LAB\SMOOP\LAB7\LB7_Zoo\obj\Debug\net10.0\refint\LB7_Zoo.dll
+E:\LAB\SMOOP\LAB7\LB7_Zoo\obj\Debug\net10.0\LB7_Zoo.pdb
+E:\LAB\SMOOP\LAB7\LB7_Zoo\obj\Debug\net10.0\LB7_Zoo.genruntimeconfig.cache
+E:\LAB\SMOOP\LAB7\LB7_Zoo\obj\Debug\net10.0\ref\LB7_Zoo.dll

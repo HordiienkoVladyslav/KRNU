@@ -1,0 +1,16 @@
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\obj\Debug\net10.0\LB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\obj\Debug\net10.0\LB2.AssemblyInfoInputs.cache
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\obj\Debug\net10.0\LB2.AssemblyInfo.cs
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\obj\Debug\net10.0\LB2.csproj.CoreCompileInputs.cache
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\obj\Debug\net10.0\LB2.sourcelink.json
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\bin\Debug\net10.0\LB2.exe
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\bin\Debug\net10.0\LB2.deps.json
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\bin\Debug\net10.0\LB2.runtimeconfig.json
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\bin\Debug\net10.0\LB2.dll
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\bin\Debug\net10.0\LB2.pdb
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\obj\Debug\net10.0\LB2.dll
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\obj\Debug\net10.0\refint\LB2.dll
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\obj\Debug\net10.0\LB2.pdb
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\obj\Debug\net10.0\LB2.genruntimeconfig.cache
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\obj\Debug\net10.0\ref\LB2.dll
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB2\obj\Debug\net10.0\LB2.csproj.Up2Date

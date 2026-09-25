@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KRNU\\SMOOP\\LAB\\LB9_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F04361-7F23-42DE-9113-609B1F65D852}|LB9_2.csproj|d:\\krnu\\smoop\\lab\\lb9_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F04361-7F23-42DE-9113-609B1F65D852}|LB9_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F04361-7F23-42DE-9113-609B1F65D852}|LB9_2.csproj|d:\\krnu\\smoop\\lab\\lb9_2\\methods\\colorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F04361-7F23-42DE-9113-609B1F65D852}|LB9_2.csproj|solutionrelative:methods\\colorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F04361-7F23-42DE-9113-609B1F65D852}|LB9_2.csproj|d:\\krnu\\smoop\\lab\\lb9_2\\interface\\icolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F04361-7F23-42DE-9113-609B1F65D852}|LB9_2.csproj|solutionrelative:interface\\icolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F04361-7F23-42DE-9113-609B1F65D852}|LB9_2.csproj|d:\\krnu\\smoop\\lab\\lb9_2\\struct\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F04361-7F23-42DE-9113-609B1F65D852}|LB9_2.csproj|solutionrelative:struct\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColorConverter.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\LB9_2\\Methods\\ColorConverter.cs",
+              "RelativeDocumentMoniker": "Methods\\ColorConverter.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\LB9_2\\Methods\\ColorConverter.cs",
+              "RelativeToolTip": "Methods\\ColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T20:57:01.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IColorConverter.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\LB9_2\\Interface\\IColorConverter.cs",
+              "RelativeDocumentMoniker": "Interface\\IColorConverter.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\LB9_2\\Interface\\IColorConverter.cs",
+              "RelativeToolTip": "Interface\\IColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T20:55:39.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Colors.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\LB9_2\\Struct\\Colors.cs",
+              "RelativeDocumentMoniker": "Struct\\Colors.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\LB9_2\\Struct\\Colors.cs",
+              "RelativeToolTip": "Struct\\Colors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T20:54:41.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\LB9_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\LB9_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T20:39:49.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

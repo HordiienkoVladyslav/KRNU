@@ -1,0 +1,14 @@
+D:\KRNU\SMOOP\LAB\Module2\bin\Debug\net10.0\Module2.exe
+D:\KRNU\SMOOP\LAB\Module2\bin\Debug\net10.0\Module2.deps.json
+D:\KRNU\SMOOP\LAB\Module2\bin\Debug\net10.0\Module2.runtimeconfig.json
+D:\KRNU\SMOOP\LAB\Module2\bin\Debug\net10.0\Module2.dll
+D:\KRNU\SMOOP\LAB\Module2\bin\Debug\net10.0\Module2.pdb
+D:\KRNU\SMOOP\LAB\Module2\obj\Debug\net10.0\Module2.GeneratedMSBuildEditorConfig.editorconfig
+D:\KRNU\SMOOP\LAB\Module2\obj\Debug\net10.0\Module2.AssemblyInfoInputs.cache
+D:\KRNU\SMOOP\LAB\Module2\obj\Debug\net10.0\Module2.AssemblyInfo.cs
+D:\KRNU\SMOOP\LAB\Module2\obj\Debug\net10.0\Module2.csproj.CoreCompileInputs.cache
+D:\KRNU\SMOOP\LAB\Module2\obj\Debug\net10.0\Module2.dll
+D:\KRNU\SMOOP\LAB\Module2\obj\Debug\net10.0\refint\Module2.dll
+D:\KRNU\SMOOP\LAB\Module2\obj\Debug\net10.0\Module2.pdb
+D:\KRNU\SMOOP\LAB\Module2\obj\Debug\net10.0\Module2.genruntimeconfig.cache
+D:\KRNU\SMOOP\LAB\Module2\obj\Debug\net10.0\ref\Module2.dll

@@ -1,0 +1,15 @@
+D:\KRNU\SMOOP\LAB\LB10_1\bin\Debug\net10.0\LB10_1.exe
+D:\KRNU\SMOOP\LAB\LB10_1\bin\Debug\net10.0\LB10_1.deps.json
+D:\KRNU\SMOOP\LAB\LB10_1\bin\Debug\net10.0\LB10_1.runtimeconfig.json
+D:\KRNU\SMOOP\LAB\LB10_1\bin\Debug\net10.0\LB10_1.dll
+D:\KRNU\SMOOP\LAB\LB10_1\bin\Debug\net10.0\LB10_1.pdb
+D:\KRNU\SMOOP\LAB\LB10_1\obj\Debug\net10.0\LB10_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KRNU\SMOOP\LAB\LB10_1\obj\Debug\net10.0\LB10_1.AssemblyInfoInputs.cache
+D:\KRNU\SMOOP\LAB\LB10_1\obj\Debug\net10.0\LB10_1.AssemblyInfo.cs
+D:\KRNU\SMOOP\LAB\LB10_1\obj\Debug\net10.0\LB10_1.csproj.CoreCompileInputs.cache
+D:\KRNU\SMOOP\LAB\LB10_1\obj\Debug\net10.0\LB10_1.sourcelink.json
+D:\KRNU\SMOOP\LAB\LB10_1\obj\Debug\net10.0\LB10_1.dll
+D:\KRNU\SMOOP\LAB\LB10_1\obj\Debug\net10.0\refint\LB10_1.dll
+D:\KRNU\SMOOP\LAB\LB10_1\obj\Debug\net10.0\LB10_1.pdb
+D:\KRNU\SMOOP\LAB\LB10_1\obj\Debug\net10.0\LB10_1.genruntimeconfig.cache
+D:\KRNU\SMOOP\LAB\LB10_1\obj\Debug\net10.0\ref\LB10_1.dll

@@ -1,0 +1,15 @@
+D:\KRNU\SMOOP\LAB\LB10_3\obj\Debug\net10.0\LB10_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\KRNU\SMOOP\LAB\LB10_3\obj\Debug\net10.0\LB10_3.AssemblyInfoInputs.cache
+D:\KRNU\SMOOP\LAB\LB10_3\obj\Debug\net10.0\LB10_3.AssemblyInfo.cs
+D:\KRNU\SMOOP\LAB\LB10_3\obj\Debug\net10.0\LB10_3.csproj.CoreCompileInputs.cache
+D:\KRNU\SMOOP\LAB\LB10_3\obj\Debug\net10.0\LB10_3.sourcelink.json
+D:\KRNU\SMOOP\LAB\LB10_3\bin\Debug\net10.0\LB10_3.exe
+D:\KRNU\SMOOP\LAB\LB10_3\bin\Debug\net10.0\LB10_3.deps.json
+D:\KRNU\SMOOP\LAB\LB10_3\bin\Debug\net10.0\LB10_3.runtimeconfig.json
+D:\KRNU\SMOOP\LAB\LB10_3\bin\Debug\net10.0\LB10_3.dll
+D:\KRNU\SMOOP\LAB\LB10_3\bin\Debug\net10.0\LB10_3.pdb
+D:\KRNU\SMOOP\LAB\LB10_3\obj\Debug\net10.0\LB10_3.dll
+D:\KRNU\SMOOP\LAB\LB10_3\obj\Debug\net10.0\refint\LB10_3.dll
+D:\KRNU\SMOOP\LAB\LB10_3\obj\Debug\net10.0\LB10_3.pdb
+D:\KRNU\SMOOP\LAB\LB10_3\obj\Debug\net10.0\LB10_3.genruntimeconfig.cache
+D:\KRNU\SMOOP\LAB\LB10_3\obj\Debug\net10.0\ref\LB10_3.dll

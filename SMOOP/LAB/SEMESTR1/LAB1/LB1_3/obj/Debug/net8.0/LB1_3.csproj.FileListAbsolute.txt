@@ -1,0 +1,14 @@
+D:\KRNU\SMOOP\LB1_3\bin\Debug\net8.0\LB1_3.exe
+D:\KRNU\SMOOP\LB1_3\bin\Debug\net8.0\LB1_3.deps.json
+D:\KRNU\SMOOP\LB1_3\bin\Debug\net8.0\LB1_3.runtimeconfig.json
+D:\KRNU\SMOOP\LB1_3\bin\Debug\net8.0\LB1_3.dll
+D:\KRNU\SMOOP\LB1_3\bin\Debug\net8.0\LB1_3.pdb
+D:\KRNU\SMOOP\LB1_3\obj\Debug\net8.0\LB1_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\KRNU\SMOOP\LB1_3\obj\Debug\net8.0\LB1_3.AssemblyInfoInputs.cache
+D:\KRNU\SMOOP\LB1_3\obj\Debug\net8.0\LB1_3.AssemblyInfo.cs
+D:\KRNU\SMOOP\LB1_3\obj\Debug\net8.0\LB1_3.csproj.CoreCompileInputs.cache
+D:\KRNU\SMOOP\LB1_3\obj\Debug\net8.0\LB1_3.dll
+D:\KRNU\SMOOP\LB1_3\obj\Debug\net8.0\refint\LB1_3.dll
+D:\KRNU\SMOOP\LB1_3\obj\Debug\net8.0\LB1_3.pdb
+D:\KRNU\SMOOP\LB1_3\obj\Debug\net8.0\LB1_3.genruntimeconfig.cache
+D:\KRNU\SMOOP\LB1_3\obj\Debug\net8.0\ref\LB1_3.dll
