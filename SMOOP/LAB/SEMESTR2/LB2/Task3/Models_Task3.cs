@@ -1,35 +1,62 @@
-﻿public abstract class Employer
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+// Базовий клас для всіх співробітників
+public abstract class Employer
 {
     public string FirstName { get; set; }
     public string LastName { get; set; }
     public DateTime BirthDate { get; set; }
-    public decimal Salary { get; set; }
-    public int WorkExperienceYears { get; set; }
-    public bool HasHigherEducation { get; set; }
+    public double Salary { get; set; }
+    public int WorkExperienceYears { get; set; } // Стаж роботи у роках
+    public bool HasHigherEducation { get; set; }  // Наявність вищої освіти
 
-    public int Age
+    public int Age => DateTime.Now.Year - BirthDate.Year - (DateTime.Now.DayOfYear < BirthDate.DayOfYear ? 1 : 0);
+
+    protected Employer(string firstName, string lastName, DateTime birthDate, double salary, int experience, bool higherEducation)
     {
-        get
-        {
-            var today = DateTime.Today;
-            var age = today.Year - BirthDate.Year;
-            if (BirthDate.Date > today.AddYears(-age)) age--;
-            return age;
-        }
+        FirstName = firstName;
+        LastName = lastName;
+        BirthDate = birthDate;
+        Salary = salary;
+        WorkExperienceYears = experience;
+        HasHigherEducation = higherEducation;
     }
 
     public override string ToString()
     {
-        return $"{GetType().Name}: {FirstName} {LastName} | Вік: {Age} | Стаж: {WorkExperienceYears} р. | Оклад: {Salary} грн.";
+        return $"{FirstName} {LastName} | Вік: {Age} | Стаж: {WorkExperienceYears} р. | Оклад: {Salary:C} | Освіта: {(HasHigherEducation ? "Вища" : "Середня/Спеціальна")}";
     }
 }
 
-public class President : Employer { }
-public class Manager : Employer { }
-public class Worker : Employer { }
+// Похідні класи для конкретних посад
+public class President : Employer
+{
+    public President(string firstName, string lastName, DateTime birthDate, double salary, int experience, bool higherEducation)
+        : base(firstName, lastName, birthDate, salary, experience, higherEducation) { }
+}
 
-public class Company_Task3
+public class Manager : Employer
+{
+    public Manager(string firstName, string lastName, DateTime birthDate, double salary, int experience, bool higherEducation)
+        : base(firstName, lastName, birthDate, salary, experience, higherEducation) { }
+}
+
+public class Worker : Employer
+{
+    public Worker(string firstName, string lastName, DateTime birthDate, double salary, int experience, bool higherEducation)
+        : base(firstName, lastName, birthDate, salary, experience, higherEducation) { }
+}
+
+// Клас Підприємства
+public class Company
 {
     public string Name { get; set; }
     public List<Employer> Employees { get; set; } = new List<Employer>();
+
+    public Company(string name)
+    {
+        Name = name;
+    }
 }

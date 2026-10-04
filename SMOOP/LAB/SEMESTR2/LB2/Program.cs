@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
         int choise = int.TryParse(Console.ReadLine(), out int result) ? result : 0;
 
 
