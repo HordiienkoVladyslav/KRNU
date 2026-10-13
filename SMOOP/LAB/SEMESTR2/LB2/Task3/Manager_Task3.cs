@@ -8,7 +8,7 @@ namespace LB2
     {
         public static void Run()
         {
-            Company company = new Company("Tech Solutions Ukraine");
+            Company company = new Company("IT Kremenchuk");
 
             company.Employees.AddRange(new List<Employer>
         {
@@ -33,24 +33,27 @@ namespace LB2
             Console.WriteLine($"=== ПІДПРИЄМСТВО: {company.Name} ===\n");
 
             // 1. Кількість робітників підприємства (лише екземпляри класу Worker)
-            int workerCount = company.Employees.OfType<Worker>().Count();
+            int workerCount = company.Employees
+                                     .OfType<Worker>()
+                                     .Count();
             Console.WriteLine($"1. Загальна кількість робітників: {workerCount}");
 
             // 2. Загальний об'єм заробітної платні для виплати всім робітникам
-            double totalSalary = company.Employees.Sum(e => e.Salary);
+            double totalSalary = company.Employees
+                                        .Sum(e => e.Salary);
             Console.WriteLine($"2. Загальний фонд заробітної плати: {totalSalary:C}\n");
 
             // 3. Топ-10 за стажем -> наймолодший з них із вищою освітою
             Console.WriteLine("3. Наймолодший працівник з вищою освітою серед 10-ти з найбільшим стажем:");
             var top10ByExperience = company.Employees
-                .OrderByDescending(e => e.WorkExperienceYears)
-                .Take(10)
-                .ToList();
+                                           .OrderByDescending(e => e.WorkExperienceYears)
+                                           .Take(10)
+                                           .ToList();
 
             var youngestWithHigherEdu = top10ByExperience
-                .Where(e => e.HasHigherEducation)
-                .OrderBy(e => e.Age)
-                .First();
+                                       .Where(e => e.HasHigherEducation)
+                                       .OrderBy(e => e.Age)
+                                       .First();
 
             if (youngestWithHigherEdu != null)
                 Console.WriteLine($"   -> {youngestWithHigherEdu}\n");
@@ -58,22 +61,28 @@ namespace LB2
                 Console.WriteLine("   -> Працівників з вищою освітою у даній вибірці не знайдено.\n");
 
             // 4. Наймолодший та найстарший менеджер
-            var managers = company.Employees.OfType<Manager>().ToList();
+            var managers = company.Employees
+                                  .OfType<Manager>()
+                                  .ToList();
             if (managers.Any())
             {
-                var youngestManager = managers.OrderBy(m => m.Age).First();
-                var oldestManager = managers.OrderByDescending(m => m.Age).First();
+                var youngestManager = managers
+                                     .OrderBy(m => m.Age)
+                                     .First();
+                var oldestManager = managers
+                                     .OrderByDescending(m => m.Age)
+                                     .First();
 
                 Console.WriteLine("4. Менеджери:");
-                Console.WriteLine($"   • Наймолодший: {youngestManager}");
-                Console.WriteLine($"   • Найстарший:  {oldestManager}\n");
+                Console.WriteLine($"    Наймолодший: {youngestManager}");
+                Console.WriteLine($"    Найстарший:  {oldestManager}\n");
             }
 
             // 5. Працівники, що народилися у жовтні (згруповані за посадою)
             Console.WriteLine("5. Співробітники, які народилися у жовтні (за професійним спрямуванням):");
             var octoberBornGrouped = company.Employees
-                .Where(e => e.BirthDate.Month == 10)
-                .GroupBy(e => e.GetType().Name);
+                                            .Where(e => e.BirthDate.Month == 10)
+                                            .GroupBy(e => e.GetType().Name);
 
             foreach (var group in octoberBornGrouped)
             {
@@ -88,19 +97,21 @@ namespace LB2
             // 6. Усі Володимири -> привітання наймолодшого з премією (1/3 окладу)
             Console.WriteLine("6. Усі працівники з ім'ям Володимир:");
             var vladimirs = company.Employees
-                .Where(e => e.FirstName.Equals("Володимир", StringComparison.OrdinalIgnoreCase))
-                .ToList();
+                                   .Where(e => e.FirstName.Equals("Володимир", StringComparison.OrdinalIgnoreCase))
+                                   .ToList();
 
             foreach (var v in vladimirs)
             {
                 Console.WriteLine($"   - {v}");
             }
 
-            var youngestVladimir = vladimirs.OrderBy(v => v.Age).First();
+            var youngestVladimir = vladimirs
+                                  .OrderBy(v => v.Age)
+                                  .First();
             if (youngestVladimir != null)
             {
                 double bonus = youngestVladimir.Salary / 3.0;
-                Console.WriteLine($"\n   🎉 ПОЗДОРОВЛЕННЯ!");
+                Console.WriteLine($"\n    ПОЗДОРОВЛЕННЯ!");
                 Console.WriteLine($"   Наймолодший Володимир — {youngestVladimir.FirstName} {youngestVladimir.LastName} ({youngestVladimir.Age} р.).");
                 Console.WriteLine($"   Вітаємо з отриманням премії у розмірі {bonus:C} (1/3 від окладу {youngestVladimir.Salary:C})!");
             }
