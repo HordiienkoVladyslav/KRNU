@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Times New Roman', serif;
+}
+
+body {
+    background-color: #f8f9fa;
+    color: #333333;
+    margin: 20px;
+}
+
+h1 {
+    color: #003366;
+    border-bottom: 2px solid #003366;
+}
+
+h2 {
+    color: #0055aa;
+}
+
+/* Використання класів */
+.section-block {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.highlight {
+    font-weight: bold;
+    font-style: italic;
+    color: #d9534f;
+}
+
+/* Псевдоелементи */
+p::first-letter {
+    font-size: 18px;
+    font-weight: bold;
+    color: #003366;
+}
+
+/* Псевдокласи для посилань */
+a:link {
+    color: #0066cc;
+    text-decoration: none;
+}
+a:visited {
+    color: #663399;
+}
+a:hover {
+    color: #cc0000;
+    text-decoration: underline;
+}
+a:active {
+    color: #ff9900;
+}
+
+/* Окремі стилі для списків */
+ol {
+    list-style-type: upper-roman;
+}
+
+ul {
+    list-style-type: square;
+}

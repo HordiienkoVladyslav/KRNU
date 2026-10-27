@@ -44,31 +44,40 @@ namespace Lab3_FileSystem.Services
             PrintSongs(result);
         }
 
-        // --- Збереження у звичайний текстовий файл за допомогою StreamWriter ---
+       
         public void SaveToFile()
         {
-            using (StreamWriter writer = new StreamWriter(filePath, false, Encoding.UTF8))
+            try
             {
-                foreach (var song in songs)
+                using (StreamWriter writer = new StreamWriter(filePath, false, Encoding.UTF8))
                 {
-                    writer.WriteLine(song.Title);
-                    writer.WriteLine(song.AuthorFullName);
-                    writer.WriteLine(song.Composer);
-                    writer.WriteLine(song.Year);
-                    writer.WriteLine(string.Join(";", song.Performers));
+                    foreach (var song in songs)
+                    {
+                        writer.WriteLine(song.Title);
+                        writer.WriteLine(song.AuthorFullName);
+                        writer.WriteLine(song.Composer);
+                        writer.WriteLine(song.Year);
+                        writer.WriteLine(string.Join(";", song.Performers));
 
-                    //// Замінюємо переносування рядків у тексті пісні на спеціальний символ \n,
-                    //// щоб весь текст зберегти в одному рядку файлу
-                    string cleanLyrics = (song.Lyrics ?? "").Replace("\r\n", "\\n").Replace("\n", "\\n");
-                    writer.WriteLine(cleanLyrics);
+                        string cleanLyrics = (song.Lyrics ?? "").Replace("\r\n", "\\n").Replace("\n", "\\n");
+                        writer.WriteLine(cleanLyrics);
 
-                    writer.WriteLine("==="); // Роздільник між піснями
+                        writer.WriteLine("==="); // Роздільник між піснями
+                    }
                 }
+                Console.WriteLine($"Колекцію збережено у файл: {Path.GetFullPath(filePath)}");
             }
-            Console.WriteLine($"Колекцію збережено у файл: {Path.GetFullPath(filePath)}");
+            catch (IOException ex)
+            {
+                Console.WriteLine($"Помилка введення-виведення при збереженні файлу: {ex.Message}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Сталася непередбачена помилка під час збереження: {ex.Message}");
+            }
         }
 
-        // --- Зчитування зі звичайного текстового файлу за допомогою StreamReader ---
+ 
         public void LoadFromFile()
         {
             if (!File.Exists(filePath))
@@ -77,41 +86,51 @@ namespace Lab3_FileSystem.Services
                 return;
             }
 
-            songs.Clear();
-            using (StreamReader reader = new StreamReader(filePath, Encoding.UTF8))
+            try
             {
-                while (!reader.EndOfStream)
+                songs.Clear();
+                using (StreamReader reader = new StreamReader(filePath, Encoding.UTF8))
                 {
-                    string title = reader.ReadLine();
-                    if (string.IsNullOrWhiteSpace(title)) continue;
-
-                    string author = reader.ReadLine();
-                    string composer = reader.ReadLine();
-                    int.TryParse(reader.ReadLine(), out int year);
-                    string performersStr = reader.ReadLine();
-                    string lyricsStr = reader.ReadLine();
-                    reader.ReadLine(); // Зчитуємо та пропускаємо роздільник "==="
-
-                    var performers = (performersStr ?? "")
-                        .Split(new[] { ';' }, StringSplitOptions.RemoveEmptyEntries)
-                        .Select(p => p.Trim())
-                        .ToList();
-
-                    // Відновлюємо переносування рядків у тексті
-                    string lyrics = (lyricsStr ?? "").Replace("\\n", Environment.NewLine);
-
-                    songs.Add(new Song
+                    while (!reader.EndOfStream)
                     {
-                        Title = title,
-                        AuthorFullName = author,
-                        Composer = composer,
-                        Year = year,
-                        Performers = performers,
-                        Lyrics = lyrics
-                    });
+                        string title = reader.ReadLine();
+                        if (string.IsNullOrWhiteSpace(title)) continue;
+
+                        string author = reader.ReadLine();
+                        string composer = reader.ReadLine();
+                        int.TryParse(reader.ReadLine(), out int year);
+                        string performersStr = reader.ReadLine();
+                        string lyricsStr = reader.ReadLine();
+                        reader.ReadLine(); // Зчитуємо та пропускаємо роздільник "==="
+
+                        var performers = (performersStr ?? "")
+                            .Split(new[] { ';' }, StringSplitOptions.RemoveEmptyEntries)
+                            .Select(p => p.Trim())
+                            .ToList();
+
+                        string lyrics = (lyricsStr ?? "").Replace("\\n", Environment.NewLine);
+
+                        songs.Add(new Song
+                        {
+                            Title = title,
+                            AuthorFullName = author,
+                            Composer = composer,
+                            Year = year,
+                            Performers = performers,
+                            Lyrics = lyrics
+                        });
+                    }
                 }
+                Console.WriteLine("Колекцію успішно завантажено з текстового файлу.");
             }
-            Console.WriteLine("Колекцію успішно завантажено з текстового файлу.");
+            catch (IOException ex)
+            {
+                Console.WriteLine($"Помилка введення-виведення при читанні файлу: {ex.Message}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Сталася непередбачена помилка під час завантаження: {ex.Message}");
+            }
         }
 
         public void PrintAll() => PrintSongs(songs);

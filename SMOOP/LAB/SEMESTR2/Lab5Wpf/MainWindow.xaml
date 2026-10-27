@@ -1,0 +1,35 @@
+<Window x:Class="Lab5Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Лабораторна робота № 5 — Панелі компонування WPF"
+        Width="560" Height="560"
+        WindowStartupLocation="CenterScreen">
+    <DockPanel Margin="24">
+
+        <StackPanel DockPanel.Dock="Top" Margin="0,0,0,16">
+            <TextBlock Text="Лабораторна робота № 5"
+                       FontSize="26" FontWeight="Bold"
+                       Foreground="#FF2B3A55"
+                       HorizontalAlignment="Center"/>
+            <TextBlock Text="Основи WPF: Панелі компонування"
+                       FontSize="16" Foreground="#FF6B7790"
+                       HorizontalAlignment="Center" Margin="0,4,0,0"/>
+        </StackPanel>
+
+        <TextBlock DockPanel.Dock="Bottom"
+                   Text="Оберіть завдання, щоб відкрити його у новому вікні"
+                   FontSize="12" Foreground="#FF8B95A8"
+                   HorizontalAlignment="Center" Margin="0,12,0,0"/>
+
+        <StackPanel VerticalAlignment="Center">
+            <Button Content="1. Зміна тексту" Click="Task1_Click" Background="#FFDCE8FF"/>
+            <Button Content="2. Керування видимістю TextBlock" Click="Task2_Click" Background="#FFDDF3E4"/>
+            <Button Content="3. Очищення та видимість TextBox" Click="Task3_Click" Background="#FFFFF1CC"/>
+            <Button Content="4. Гра «Сховай усі кнопки»" Click="Task4_Click" Background="#FFFFDDDD"/>
+            <Button Content="5. Гра «Упіймай кнопку, якщо зможеш!»" Click="Task5_Click" Background="#FFE7DDFF"/>
+            <Button Content="6. Гра «Алхімічна лабораторія кольорів»" Click="Task6_Click" Background="#FFD9F2F2"/>
+            <Button Content="7. (Додатково) Симулятор хакера «Злом сейфу»" Click="Task7_Click" Background="#FFE0E0E0"/>
+        </StackPanel>
+
+    </DockPanel>
+</Window>

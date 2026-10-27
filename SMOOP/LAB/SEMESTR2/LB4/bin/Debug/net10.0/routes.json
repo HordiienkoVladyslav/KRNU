@@ -1,0 +1,32 @@
+[
+  {
+    "StartPoint": "\u041A\u0438\u0457\u0432",
+    "EndPoint": "\u041B\u044C\u0432\u0456\u0432",
+    "TravelTime": 6.5,
+    "RouteNumber": 101
+  },
+  {
+    "StartPoint": "\u041A\u0438\u0457\u0432",
+    "EndPoint": "\u041E\u0434\u0435\u0441\u0430",
+    "TravelTime": 7,
+    "RouteNumber": 105
+  },
+  {
+    "StartPoint": "\u0425\u0430\u0440\u043A\u0456\u0432",
+    "EndPoint": "\u041A\u0438\u0457\u0432",
+    "TravelTime": 5.5,
+    "RouteNumber": 202
+  },
+  {
+    "StartPoint": "\u041A\u0438\u0457\u0432",
+    "EndPoint": "\u041B\u044C\u0432\u0456\u0432",
+    "TravelTime": 5,
+    "RouteNumber": 110
+  },
+  {
+    "StartPoint": "\u0414\u043D\u0456\u043F\u0440\u043E",
+    "EndPoint": "\u041E\u0434\u0435\u0441\u0430",
+    "TravelTime": 9,
+    "RouteNumber": 303
+  }
+]

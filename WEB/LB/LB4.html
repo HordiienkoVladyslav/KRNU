@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="utf-8">
+    <title>Лабораторна робота №4 - Форми в HTML</title>
+</head>
+<body>
+    <header>
+        <h1>Форма реєстрації учасника конференції з Веб-розробки</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Заповніть анкету учасника</h2>
+            <article>
+                <form action="/submit_registration.php" method="post">
+                    <!-- Приховане поле -->
+                    <input type="hidden" id="form_id" name="form_id" value="REG_2026_CONF">
+
+                    <!-- Група 1: Особисті дані -->
+                    <fieldset>
+                        <legend>Особисті дані</legend>
+                        
+                        <p>
+                            <label for="fullname">Повне ім'я (ПІБ):</label><br>
+                            <input type="text" id="fullname" name="fullname" placeholder="Іванов Іван Іванович" required autofocus>
+                        </p>
+                        <p>
+                            <label for="pass">Пароль для кабінету:</label><br>
+                            <input type="password" id="pass" name="pass" required>
+                        </p>
+                        <p>
+                            <label for="age">Вік (років):</label><br>
+                            <input type="number" id="age" name="age" min="18" max="99" value="20" step="1">
+                        </p>
+                        <p>
+                            <label for="birthdate">Дата народження:</label><br>
+                            <input type="date" id="birthdate" name="birthdate">
+                        </p>
+                    </fieldset>
+
+                    <!-- Група 2: Контактна інформація -->
+                    <fieldset>
+                        <legend>Контактна інформація</legend>
+
+                        <p>
+                            <label for="user_email">Електронна пошта:</label><br>
+                            <input type="email" id="user_email" name="user_email" placeholder="example@domain.com" required>
+                        </p>
+                        <p>
+                            <label for="user_phone">Номер телефону:</label><br>
+                            <input type="tel" id="user_phone" name="user_phone" placeholder="099-123-4567" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
+                        </p>
+                        <p>
+                            <label for="city">Місто (зі списку підказок):</label><br>
+                            <input type="text" id="city" name="city" list="cities_list" placeholder="Почніть вводити місто...">
+                            <datalist id="cities_list">
+                                <option value="Київ">
+                                <option value="Кременчук">
+                                <option value="Харків">
+                                <option value="Львів">
+                                <option value="Одеса">
+                                <option value="Дніпро">
+                            </datalist>
+                        </p>
+                    </fieldset>
+
+                    <!-- Група 3: Участь та вподобання -->
+                    <fieldset>
+                        <legend>Участь та вподобання</legend>
+
+                        <p><b>Оберіть роль у конференції (Радіокнопки):</b><br>
+                            <input type="radio" id="role_listener" name="user_role" value="listener" checked>
+                            <label for="role_listener">Слухач</label><br>
+                            
+                            <input type="radio" id="role_speaker" name="user_role" value="speaker">
+                            <label for="role_speaker">Доповідач</label><br>
+                            
+                            <input type="radio" id="role_sponsor" name="user_role" value="sponsor">
+                            <label for="role_sponsor">Спонсор</label>
+                        </p>
+
+                        <p><b>Цікаві напрями (Чекбокси):</b><br>
+                            <input type="checkbox" id="topic_html" name="topics" value="HTML/CSS" checked>
+                            <label for="topic_html">HTML5 та CSS3</label><br>
+                            
+                            <input type="checkbox" id="topic_js" name="topics" value="JavaScript">
+                            <label for="topic_js">JavaScript та фреймворки</label><br>
+                            
+                            <input type="checkbox" id="topic_backend" name="topics" value="Backend">
+                            <label for="topic_backend">Backend-розробка</label>
+                        </p>
+
+                        <p>
+                            <label for="level">Рівень підготовки (Випадаючий список):</label><br>
+                            <select id="level" name="level">
+                                <option value="beginner">Початківець</option>
+                                <option value="intermediate" selected>Середній</option>
+                                <option value="advanced">Професіонал</option>
+                            </select>
+                        </p>
+
+                        <p>
+                            <label for="badge_color">Колір бейджа учасника:</label><br>
+                            <input type="color" id="badge_color" name="badge_color" value="#0055ff">
+                        </p>
+
+                        <p>
+                            <label for="avatar">Завантажити фото/тези (Файл):</label><br>
+                            <input type="file" id="avatar" name="avatar" multiple>
+                        </p>
+
+                        <p>
+                            <label for="notes">Коротке резюме / побажання (Багаторядкове поле):</label><br>
+                            <textarea id="notes" name="notes" rows="4" cols="50" placeholder="Введіть ваш текст тут..."></textarea>
+                        </p>
+                    </fieldset>
+
+                    <!-- Кнопки управління -->
+                    <p>
+                        <input type="submit" value="Надіслати анкету">
+                        <input type="reset" value="Скинути форму">
+                    </p>
+                </form>
+            </article>
+        </section>
+    </main>
+</body>
+</html>
+

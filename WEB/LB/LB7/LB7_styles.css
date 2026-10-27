@@ -1,0 +1,45 @@
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Оформлення блоків із тінями, рамками та напівпрозорістю */
+.card {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #004085;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.transparent-box {
+    background-color: #e2e3e5;
+    opacity: 0.85; /* Властивість прозорості */
+    padding: 10px;
+    border: 1px dashed #6c757d;
+}
+
+/* Текстові ефекти та регістр */
+.title-uppercase {
+    text-transform: uppercase;
+    color: #004085;
+}
+
+.custom-decoration {
+    text-decoration: underline overline;
+}
+
+/* Прокрутка вмісту */
+.scroll-container {
+    width: 100%;
+    height: 120px;
+    border: 1px solid #b8daff;
+    background-color: #f8f9fa;
+    overflow: auto; /* Додавання прокрутки */
+    padding: 10px;
+}

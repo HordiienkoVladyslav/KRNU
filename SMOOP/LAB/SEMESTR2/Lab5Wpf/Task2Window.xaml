@@ -1,0 +1,20 @@
+<Window x:Class="Lab5Wpf.Task2Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Завдання 2 — Керування видимістю TextBlock"
+        Width="480" Height="300"
+        WindowStartupLocation="CenterOwner">
+    <DockPanel Margin="20">
+
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="Сховати" Click="HideButton_Click" Background="#FFFFDDDD" MinWidth="120"/>
+            <Button Content="Показати" Click="ShowButton_Click" Background="#FFDDF3E4" MinWidth="120"/>
+        </StackPanel>
+
+        <TextBlock x:Name="SampleText"
+                   Text="Цей текст можна ховати та показувати!"
+                   FontSize="24" FontStyle="Italic" Foreground="#FF2B3A55"
+                   TextWrapping="Wrap" TextAlignment="Center"
+                   HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </DockPanel>
+</Window>

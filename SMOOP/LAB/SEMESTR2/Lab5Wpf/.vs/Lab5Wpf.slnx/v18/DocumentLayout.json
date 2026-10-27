@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab5wpf\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|solutionrelative:mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab5wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab5wpf\\task4window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|solutionrelative:task4window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab5wpf\\task4window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|solutionrelative:task4window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab5wpf\\task6window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|solutionrelative:task6window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab5wpf\\task1window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|solutionrelative:task1window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab5wpf\\task7window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|solutionrelative:task7window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab5wpf\\task5window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|solutionrelative:task5window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab5wpf\\task3window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|solutionrelative:task3window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab5wpf\\task2window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|solutionrelative:task2window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab5wpf\\task7window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|solutionrelative:task7window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab5wpf\\task6window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|solutionrelative:task6window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab5wpf\\task5window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|solutionrelative:task5window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|d:\\krnu\\smoop\\lab\\semestr2\\lab5wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{448F634A-A71E-6DE3-D4A8-E4CFB224D619}|Lab5Wpf.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T12:57:40.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task6Window.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task6Window.xaml",
+              "RelativeDocumentMoniker": "Task6Window.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task6Window.xaml",
+              "RelativeToolTip": "Task6Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T21:52:17.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task4Window.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task4Window.xaml",
+              "RelativeDocumentMoniker": "Task4Window.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task4Window.xaml",
+              "RelativeToolTip": "Task4Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T21:52:11.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T21:50:35.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task1Window.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task1Window.xaml",
+              "RelativeDocumentMoniker": "Task1Window.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task1Window.xaml",
+              "RelativeToolTip": "Task1Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T21:51:20.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task2Window.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task2Window.xaml",
+              "RelativeDocumentMoniker": "Task2Window.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task2Window.xaml",
+              "RelativeToolTip": "Task2Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T21:51:38.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task5Window.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task5Window.xaml",
+              "RelativeDocumentMoniker": "Task5Window.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task5Window.xaml",
+              "RelativeToolTip": "Task5Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T21:52:14.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task7Window.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task7Window.xaml",
+              "RelativeDocumentMoniker": "Task7Window.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task7Window.xaml",
+              "RelativeToolTip": "Task7Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T21:52:22.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task4Window.xaml.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task4Window.xaml.cs",
+              "RelativeDocumentMoniker": "Task4Window.xaml.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task4Window.xaml.cs",
+              "RelativeToolTip": "Task4Window.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T21:57:24.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task3Window.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task3Window.xaml",
+              "RelativeDocumentMoniker": "Task3Window.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task3Window.xaml",
+              "RelativeToolTip": "Task3Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T21:52:06.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Task7Window.xaml.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task7Window.xaml.cs",
+              "RelativeDocumentMoniker": "Task7Window.xaml.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task7Window.xaml.cs",
+              "RelativeToolTip": "Task7Window.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T21:59:08.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Task5Window.xaml.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task5Window.xaml.cs",
+              "RelativeDocumentMoniker": "Task5Window.xaml.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task5Window.xaml.cs",
+              "RelativeToolTip": "Task5Window.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T21:58:05.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Task6Window.xaml.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task6Window.xaml.cs",
+              "RelativeDocumentMoniker": "Task6Window.xaml.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\Task6Window.xaml.cs",
+              "RelativeToolTip": "Task6Window.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T21:58:20.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\Lab5Wpf\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T21:50:26.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

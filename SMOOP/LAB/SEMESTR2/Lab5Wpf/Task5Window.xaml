@@ -1,0 +1,31 @@
+<Window x:Class="Lab5Wpf.Task5Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Завдання 5 — Упіймай кнопку, якщо зможеш!"
+        Width="700" Height="500"
+        WindowStartupLocation="CenterOwner">
+    <Grid Margin="16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Margin="0,0,0,10">
+            <TextBlock Text="Упіймай кнопку, якщо зможеш!" FontSize="22" FontWeight="Bold"
+                       Foreground="#FF2B3A55" HorizontalAlignment="Center"/>
+            <TextBlock x:Name="EscapesText" Text="Кнопка втекла: 0 разів" FontSize="14"
+                       Foreground="#FF6B7790" HorizontalAlignment="Center" Margin="0,4,0,0"/>
+        </StackPanel>
+
+        <Border Grid.Row="1" BorderBrush="#FFCBD3E1" BorderThickness="2" CornerRadius="8"
+                ClipToBounds="True">
+            <Canvas x:Name="Field" Background="#FFE9EEF8" Loaded="Field_Loaded">
+                <Button x:Name="CatchButton" Content="Натисни мене"
+                        Background="#FFFF8A65" Foreground="White" FontWeight="Bold"
+                        Padding="18,10" Margin="0"
+                        MouseEnter="CatchButton_MouseEnter"
+                        Click="CatchButton_Click"/>
+            </Canvas>
+        </Border>
+    </Grid>
+</Window>

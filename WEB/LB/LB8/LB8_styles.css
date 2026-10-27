@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f0f2f5;
+    padding: 10px;
+}
+
+/* Загальний контейнер */
+.container {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* Шапка та Футер */
+#header, #footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #1d2124;
+    margin-bottom: 10px;
+}
+
+#footer {
+    margin-top: 10px;
+    clear: both; /* Скидання обтікання float */
+}
+
+/* Триколонкова структура за допомогою float та calc */
+#left-sidebar {
+    background-color: #e9ecef;
+    float: left;
+    width: 200px;
+    padding: 15px;
+    border: 1px solid #ced4da;
+    min-height: 250px;
+}
+
+#main-content {
+    background-color: #ffffff;
+    float: left;
+    width: calc(100% - 420px); /* Динамічна ширина центрального блока */
+    margin: 0 10px;
+    padding: 15px;
+    border: 1px solid #ced4da;
+    min-height: 250px;
+}
+
+#right-sidebar {
+    background-color: #e9ecef;
+    float: right;
+    width: 200px;
+    padding: 15px;
+    border: 1px solid #ced4da;
+    min-height: 250px;
+}

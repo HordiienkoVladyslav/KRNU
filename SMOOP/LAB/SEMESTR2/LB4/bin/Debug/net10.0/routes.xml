@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRoute xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Route>
+    <StartPoint>Київ</StartPoint>
+    <EndPoint>Львів</EndPoint>
+    <TravelTime>6.5</TravelTime>
+    <RouteNumber>101</RouteNumber>
+  </Route>
+  <Route>
+    <StartPoint>Київ</StartPoint>
+    <EndPoint>Одеса</EndPoint>
+    <TravelTime>7</TravelTime>
+    <RouteNumber>105</RouteNumber>
+  </Route>
+  <Route>
+    <StartPoint>Харків</StartPoint>
+    <EndPoint>Київ</EndPoint>
+    <TravelTime>5.5</TravelTime>
+    <RouteNumber>202</RouteNumber>
+  </Route>
+  <Route>
+    <StartPoint>Київ</StartPoint>
+    <EndPoint>Львів</EndPoint>
+    <TravelTime>5</TravelTime>
+    <RouteNumber>110</RouteNumber>
+  </Route>
+  <Route>
+    <StartPoint>Дніпро</StartPoint>
+    <EndPoint>Одеса</EndPoint>
+    <TravelTime>9</TravelTime>
+    <RouteNumber>303</RouteNumber>
+  </Route>
+</ArrayOfRoute>

@@ -1,0 +1,16 @@
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\bin\Debug\net10.0\LB4.exe
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\bin\Debug\net10.0\LB4.deps.json
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\bin\Debug\net10.0\LB4.runtimeconfig.json
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\bin\Debug\net10.0\LB4.dll
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\bin\Debug\net10.0\LB4.pdb
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\obj\Debug\net10.0\LB4.GeneratedMSBuildEditorConfig.editorconfig
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\obj\Debug\net10.0\LB4.AssemblyInfoInputs.cache
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\obj\Debug\net10.0\LB4.AssemblyInfo.cs
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\obj\Debug\net10.0\LB4.csproj.CoreCompileInputs.cache
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\obj\Debug\net10.0\LB4.sourcelink.json
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\obj\Debug\net10.0\LB4.dll
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\obj\Debug\net10.0\refint\LB4.dll
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\obj\Debug\net10.0\LB4.pdb
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\obj\Debug\net10.0\LB4.genruntimeconfig.cache
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\obj\Debug\net10.0\ref\LB4.dll
+D:\KRNU\SMOOP\LAB\SEMESTR2\LB4\obj\Debug\net10.0\LB4.csproj.Up2Date
