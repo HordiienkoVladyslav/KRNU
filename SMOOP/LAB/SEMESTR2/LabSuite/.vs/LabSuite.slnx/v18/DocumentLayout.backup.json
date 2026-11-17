@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|d:\\krnu\\smoop\\lab\\semestr2\\labsuite\\clickerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|solutionrelative:clickerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|d:\\krnu\\smoop\\lab\\semestr2\\labsuite\\clickerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|solutionrelative:clickerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|d:\\krnu\\smoop\\lab\\semestr2\\labsuite\\bestoilwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|solutionrelative:bestoilwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|d:\\krnu\\smoop\\lab\\semestr2\\labsuite\\bestoilwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|solutionrelative:bestoilwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|d:\\krnu\\smoop\\lab\\semestr2\\labsuite\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|solutionrelative:authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|d:\\krnu\\smoop\\lab\\semestr2\\labsuite\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|d:\\krnu\\smoop\\lab\\semestr2\\labsuite\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|d:\\krnu\\smoop\\lab\\semestr2\\labsuite\\game2048window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|solutionrelative:game2048window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|d:\\krnu\\smoop\\lab\\semestr2\\labsuite\\game2048window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|solutionrelative:game2048window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|d:\\krnu\\smoop\\lab\\semestr2\\labsuite\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0082A6A4-D320-8ECE-4F58-754F9908F1B8}|LabSuite.csproj|solutionrelative:authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClickerWindow.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\ClickerWindow.xaml",
+              "RelativeDocumentMoniker": "ClickerWindow.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\ClickerWindow.xaml",
+              "RelativeToolTip": "ClickerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T22:59:05.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClickerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\ClickerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClickerWindow.xaml.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\ClickerWindow.xaml.cs",
+              "RelativeToolTip": "ClickerWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T22:56:02.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game2048Window.xaml.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\Game2048Window.xaml.cs",
+              "RelativeDocumentMoniker": "Game2048Window.xaml.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\Game2048Window.xaml.cs",
+              "RelativeToolTip": "Game2048Window.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T22:37:25.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game2048Window.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\Game2048Window.xaml",
+              "RelativeDocumentMoniker": "Game2048Window.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\Game2048Window.xaml",
+              "RelativeToolTip": "Game2048Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T22:37:23.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BestOilWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\BestOilWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BestOilWindow.xaml.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\BestOilWindow.xaml.cs",
+              "RelativeToolTip": "BestOilWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T22:37:16.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthWindow.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\AuthWindow.xaml",
+              "RelativeDocumentMoniker": "AuthWindow.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\AuthWindow.xaml",
+              "RelativeToolTip": "AuthWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T22:36:26.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BestOilWindow.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\BestOilWindow.xaml",
+              "RelativeDocumentMoniker": "BestOilWindow.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\BestOilWindow.xaml",
+              "RelativeToolTip": "BestOilWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T22:37:13.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T22:37:35.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-29T22:41:59.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\AuthWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AuthWindow.xaml.cs",
+              "ToolTip": "D:\\KRNU\\SMOOP\\LAB\\SEMESTR2\\LabSuite\\AuthWindow.xaml.cs",
+              "RelativeToolTip": "AuthWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wCIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T22:36:50.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

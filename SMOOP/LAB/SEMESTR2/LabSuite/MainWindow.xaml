@@ -1,0 +1,15 @@
+<Window x:Class="LabSuite.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="Лабораторні роботи 6 і 7" Width="520" Height="600"
+        WindowStartupLocation="CenterScreen" Style="{StaticResource Win}">
+  <StackPanel Margin="32">
+    <TextBlock Text="Лабораторні роботи WPF" FontSize="30" FontWeight="Bold"/>
+    <TextBlock Text="Оберіть завдання" Opacity="0.6" Margin="0,4,0,20"/>
+    <TextBlock Text="ЛБ №6. Елементи керування" FontSize="18" Foreground="{DynamicResource Amber}" Margin="0,0,0,6"/>
+    <Button Content="1. Калькулятор" Tag="Calc" Click="Open"/>
+    <Button Content="2. Автозаправка BestOil" Tag="Oil" Click="Open"/>
+    <Button Content="3. Клікер «Місто мрії»" Tag="City" Click="Open"/>
+    <TextBlock Text="ЛБ №7. Ресурси та стилі" FontSize="18" Foreground="{DynamicResource Amber}" Margin="0,24,0,6"/>
+    <Button Content="1. Реєстрація та авторизація" Tag="Auth" Click="Open"/>
+    <Button Content="2. Гра 2048" Tag="G2048" Click="Open"/>
+    <Button Content="3. Нічний Снайпер" Tag="Sniper" Click="Open"/>
+  </StackPanel>
+</Window>

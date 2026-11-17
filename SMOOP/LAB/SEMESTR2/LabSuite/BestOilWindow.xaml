@@ -1,0 +1,29 @@
+<Window x:Class="LabSuite.BestOilWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="BestOil" Width="780" Height="520" Style="{StaticResource Win}">
+  <Grid Margin="14">
+    <Grid.ColumnDefinitions><ColumnDefinition/><ColumnDefinition/></Grid.ColumnDefinitions>
+    <Grid.RowDefinitions><RowDefinition/><RowDefinition Height="Auto"/></Grid.RowDefinitions>
+    <GroupBox Header="АЗС" Margin="4" Padding="10" Foreground="{DynamicResource Amber}">
+      <StackPanel TextElement.Foreground="{DynamicResource Paper}">
+        <TextBlock Text="Пальне"/>
+        <ComboBox x:Name="Fuel" Margin="0,4" SelectionChanged="FuelChanged"/>
+        <TextBlock Text="Ціна, грн/л" Margin="0,8,0,0"/>
+        <TextBox x:Name="PriceBox" IsReadOnly="True"/>
+                <RadioButton x:Name="ByQty" Content="Кількість, л" Foreground="White" IsChecked="True" Margin="0,10,0,0" Checked="Mode"/>
+        <TextBox x:Name="QtyBox" Text="0" TextChanged="FuelCalc"/>
+                <RadioButton x:Name="BySum" Content="Сума, грн" Foreground="White" Margin="0,6,0,0" Checked="Mode"/>
+        <TextBox x:Name="SumBox" Text="0" IsEnabled="False" TextChanged="FuelCalc"/>
+      </StackPanel>
+    </GroupBox>
+    <GroupBox Header="Міні-кафе" Grid.Column="1" Margin="4" Padding="10" Foreground="{DynamicResource Amber}">
+      <StackPanel x:Name="CafeList" TextElement.Foreground="{DynamicResource Paper}"/>
+    </GroupBox>
+    <Border Grid.Row="1" Grid.ColumnSpan="2" Background="{DynamicResource Panel}" CornerRadius="8" Padding="12" Margin="4">
+      <StackPanel Orientation="Horizontal">
+        <Button Content="Прорахувати" Style="{StaticResource Accent}" Click="Count"/>
+        <TextBlock x:Name="Total" Text="До сплати: 0,00 грн" FontSize="22" FontWeight="Bold" VerticalAlignment="Center" Margin="16,0"/>
+        <Button Content="Оплатити" Click="Pay"/>
+        <TextBlock x:Name="Revenue" VerticalAlignment="Center" Margin="16,0" Foreground="{DynamicResource Amber}"/>
+      </StackPanel>
+    </Border>
+  </Grid>
+</Window>
